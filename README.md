@@ -25,7 +25,9 @@ Posiblemente:
 ##Listado Compras
 
 ###Pa Comer
-- carne churrascos / hamburguesa
+- churrascos / hamburguesa
+  - carne
+  - pavo
 - lechuga
 - tomate
 - cebolla
@@ -37,6 +39,14 @@ Posiblemente:
 
 ###Pa Picar
 TODO
+
+###Pa Tomal
+TODO
+
+###Utensilios (reciclables)
+- platos
+- servilletas
+- vasos
 
 ![](http://media.giphy.com/media/10SIw3foOfRugw/giphy.gif)
 
