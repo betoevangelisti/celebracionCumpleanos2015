@@ -24,6 +24,18 @@ Posiblemente:
 
 ##Listado Compras
 
+###Pa Comer
+- carne churrascos / hamburguesa
+- lechuga
+- tomate
+- cebolla
+- mayonesa casera hecha por el dueño de casa
+- ketchup
+- mostaza
+- salsa verde
+- pan del baratu nomas
+
+###Pa Picar
 TODO
 
 ![](http://media.giphy.com/media/10SIw3foOfRugw/giphy.gif)
