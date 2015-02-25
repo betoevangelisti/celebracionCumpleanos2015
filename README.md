@@ -6,9 +6,10 @@ Organizando la celebracion de mi cumple este 2015
 
 ##Listado Invitados
 
-TODO
-
 ![](http://media1.giphy.com/media/zSY4lIKwfGiU8/200.gif)
+
+- @shupelneker
+- @coto
 
 ##Listado Compras
 
