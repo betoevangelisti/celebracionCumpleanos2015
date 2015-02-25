@@ -10,12 +10,23 @@ Organizando la celebracion de mi cumple este 2015
 
 - @shupelneker
 - @coto
+- Gino
+- Flakuliao
+- Flashero
+- Chago
+- Yon
+- @betoevangelisti
+
+Posiblemente:
+- Little Caprice
+- aletta ocean
+- Katya Sambuca
 
 ##Listado Compras
 
 TODO
 
-![](http://media.giphy.com/media/vdbrUjzrUEGly/giphy.gif)
+![](http://media.giphy.com/media/10SIw3foOfRugw/giphy.gif)
 
 ##URL
 Metro Línea 2 al fondo a la derecha
