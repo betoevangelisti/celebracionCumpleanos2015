@@ -17,6 +17,7 @@ Organizando la celebracion de mi cumple este 2015
 - Yon
 - @betoevangelisti
 - el gatito
+- toledopasarin (a confirmar)
 
 Posiblemente:
 - Little Caprice
@@ -42,6 +43,7 @@ Posiblemente:
 ###Pa Picar
 - Frutos secos (mix de mani, almendras, etc)
 - Nachos
+- queso pa los nachus
 - Papas Fritas
 - Queso crema + salsa soya (optativo)
 
