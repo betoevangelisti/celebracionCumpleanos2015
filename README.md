@@ -12,12 +12,15 @@ Organizando la celebracion de mi cumple este 2015
 - @coto
 - Gino
 - Flakuliao
+- Flaka
 - Flashero
 - Chago
 - Yon
 - @betoevangelisti
 - el gatito
 - toledopasarin (a confirmar)
+- akiragirl
+- dani fresard (a confirmar)
 
 Posiblemente:
 - Little Caprice
@@ -27,30 +30,29 @@ Posiblemente:
 ##Listado Compras
 
 ###Pa Comer
-- churrascos / hamburguesa
-  - carne
-  - pavo
-- lechuga
+- masa pizza
+- salsicha
+- carne molida
+- salsa tomate
+- queso picadu
+- cebollandrews
+- choclu
+- albahaca
 - tomate
-- cebolla
-- mayonesa casera hecha por el dueño de casa
-- ketchup
-- mostaza
-- salsa verde
-- pan del baratu nomas
-- comida de gato
+- jamon
 
 ###Pa Picar
 - Frutos secos (mix de mani, almendras, etc)
 - Nachos
 - queso pa los nachus
-- Papas Fritas
-- Queso crema + salsa soya (optativo)
 
 ###Pa Tomal
 - Cervezas
+  - heinekken
+  - stella artois
 - Bebidas
-- Algo fuerte pal celebro (optativo, se puede comprar in situ y consensuado entre los borrachines)
+  - ?
+- piscu sour (@betochile se pone)
 
 ###Utensilios (reciclables)
 - platos
