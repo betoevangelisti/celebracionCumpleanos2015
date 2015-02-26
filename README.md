@@ -48,11 +48,12 @@ Posiblemente:
 
 ###Pa Tomal
 - Cervezas
-  - heinekken
-  - stella artois
+  - heinekken (mínimo 4 pack)
+  - stella artois (mínimo 4 pack)
 - Bebidas
-  - ?
+  - 2 bebidas 3 litros (coca )
 - piscu sour (@betochile se pone)
+- Puede que llegue un Whisky
 
 ###Utensilios (reciclables)
 - platos
